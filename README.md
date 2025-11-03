@@ -60,9 +60,9 @@ https://localhost:5001/swagger
 
 Default Admin Credentials
 
-Email: admin@gmail.com
+Email: admin@demo.com
 
-Password: Yasar@2005!
+Password: P@ssw0rd!
 
 Seeded products:
 
