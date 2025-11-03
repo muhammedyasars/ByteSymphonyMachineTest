@@ -53,8 +53,8 @@ public class AppDbContext : DbContext
         {
             Id = adminId,
             FullName = "Admin",
-            Email = "admin@gmail.com",
-            PasswordHash = BCrypt.Net.BCrypt.HashPassword("Yasar@2005!"),
+            Email = "admin@demo.com",
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword("P@ssw0rd!"),
             Role = "Admin",
             CreatedAt = DateTime.UtcNow
         });
