@@ -24,7 +24,7 @@ Quick Setup
 .NET 8 SDK or later
 
 2. Clone the Project
-git clone < >
+git clone <https://github.com/muhammedyasars/ByteSymphonyMachineTest.git>
 cd ByteSymmetryTest
 
 3. Restore Dependencies
@@ -36,7 +36,7 @@ dotnet ef database update
 
 This will:
 
-Create the database (app.db for SQLite)
+Create the database 
 
 Create tables for Users, Products, and Orders
 
